@@ -1,0 +1,16 @@
+<div></div>
+<style>
+  *{
+    box-sizing:border-box;
+    padding:0;
+    margin:0
+  }
+  body{
+    background:#5d3a3a
+  }
+  div {
+    width: 200px;
+    height: 200px;
+    background: #b5e0ba;
+  }
+</style>
